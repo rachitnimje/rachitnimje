@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Rachit Nimje, an aspiring web deveolpement student.
+Currently I'm learning MERN stack.
 <!--
 **rachitnimje/rachitnimje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
