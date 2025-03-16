@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Rachit Nimje, an aspiring web deveolpement student.
-Currently I'm learning MERN stack.
+I'm Rachit Nimje, an aspiring computer engineer.
+Currently I'm learning Golang while doing projects in Go and Java.
 <!--
 **rachitnimje/rachitnimje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
